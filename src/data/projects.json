@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Cuisine Cash",
+    "imageSrc": "projects/cc.png",
+    "description": "This is my first individual React Project, a cashier application that implements the use of CRUD",
+    "skills": ["React", "Bootstrap", "Axios"],
+    "demo": "https://cuisine-cash.vercel.app/",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Agriplant",
+    "imageSrc": "projects/agriplant.png",
+    "description": "This is a Capstone Project named Agriplant, i collaborated with UI/UX, Flutter, BE, & QA",
+    "skills": ["React", "Bootstrap", "Axios", "Swagger"],
+    "demo": "https://agriculture-react.vercel.app/dashboard",
+    "source": "https://www.github.com"
+  }
+]

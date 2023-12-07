@@ -1,0 +1,21 @@
+[
+  {
+    "role": "Front-End React JS",
+    "organisation": "Alterra Academy",
+    "startDate": "Aug, 2023",
+    "endDate": "Present",
+    "experiences": [
+      "Learned from basic HTML CSS JS",
+      "Created Project Cuisine Cash and Agriplant"
+    ],
+    "imageSrc": "history/alter.png"
+  },
+  {
+    "role": "UI Designer",
+    "organisation": "Mirosoft",
+    "startDate": "Aug, 2021",
+    "endDate": "Aug, 2022",
+    "experiences": ["Worked on Windows 11", "Designed the control panel"],
+    "imageSrc": "history/microsoft.png"
+  }
+]
