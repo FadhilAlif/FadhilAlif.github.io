@@ -8,11 +8,19 @@
     "source": "https://www.github.com"
   },
   {
-    "title": "Agriplant",
+    "title": "Agriplant App",
     "imageSrc": "projects/agriplant.png",
     "description": "This is a Capstone Project named Agriplant, i collaborated with UI/UX, Flutter, BE, & QA",
     "skills": ["React", "Bootstrap", "Axios", "Swagger"],
     "demo": "https://agriculture-react.vercel.app/dashboard",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Todo App",
+    "imageSrc": "projects/MyTodoList.png",
+    "description": "Todo App is an application for task or activity management",
+    "skills": ["React", "Module CSS", "Local Storage"],
+    "demo": "https://react-todo-app-fadhil.vercel.app/",
     "source": "https://www.github.com"
   }
 ]
